@@ -1,0 +1,17 @@
+bossbardefault:
+  change-interval: 500
+  texts:
+  - '&b&l新手点E进入物品栏'
+scoreboarddefault:
+  change-interval: 200
+  texts:
+  - '&b&l羊总免费饭'
+  - '&3&l羊总免费饭'
+  - '&3&l羊总免费饭'
+  - '&3&l羊总免费饭'
+  - '&b&l羊总免费饭'
+  - '&b&l羊总免费饭'
+  - '&b&l羊总免费饭'
+  - '&3&l羊总免费饭'
+  - '&3&l羊总免费饭'
+  - '&3&l羊总免费饭'

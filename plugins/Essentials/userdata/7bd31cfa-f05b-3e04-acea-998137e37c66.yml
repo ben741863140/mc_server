@@ -1,0 +1,36 @@
+lastAccountName: Canobe
+timestamps:
+  login: 1655725558868
+  kits:
+    vipeday: 1651296001993
+    frists: 1651239925287
+    firsts: 1651295629801
+    eday: 1651295925924
+    tools: 1652005577949
+  lastteleport: 1655725541505
+  logout: 1655725553164
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world_dipi1
+  x: -22.95052202297245
+  y: 65.0
+  z: -19.141873487814525
+  yaw: 12.149986
+  pitch: 25.949972
+afk: false
+logoutlocation:
+  world: world
+  x: 77.58824415165539
+  y: 94.0
+  z: 1.5765625571589728
+  yaw: 78.59534
+  pitch: 46.049778
+money: '14632.95'
+homes:
+  home:
+    world: world
+    x: 81.92376397416659
+    y: 94.0
+    z: 3.3857415803241135
+    yaw: -268.2041
+    pitch: -1.8002124

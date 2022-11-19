@@ -1,0 +1,30 @@
+lastAccountName: ankikong
+timestamps:
+  login: 1668831496219
+  logout: 1668831162525
+  lastteleport: 1668831508576
+ipAddress: 121.35.180.78
+lastlocation:
+  world: world
+  x: 81.0
+  y: 79.0
+  z: 15.0
+  yaw: 89.69537
+  pitch: -2.2502074
+logoutlocation:
+  world: world
+  x: 330.12191879294835
+  y: 64.0
+  z: -288.6065008256741
+  yaw: 78.996
+  pitch: 11.464083
+money: '49603.1'
+homes:
+  home:
+    world: world
+    x: 329.38713847500895
+    y: 64.0
+    z: -287.38021067706524
+    yaw: 196.08081
+    pitch: 23.74967
+afk: false

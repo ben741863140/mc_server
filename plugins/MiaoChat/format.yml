@@ -1,0 +1,13 @@
+player:
+  text: '%player_name%'
+  tip:
+    - '&7玩家信息: '
+    - ''
+    - '&7玩家: &f%player_name%'
+    - '&7延迟: &f%player_ping%ms'
+    - '&7模式/血量: &f%player_gamemode%/%player_health%'
+    - ''
+    - '&e单击发送传送请求！'
+  click:
+    type: 'SUGGEST'
+    command: '/tpa %player_name%'

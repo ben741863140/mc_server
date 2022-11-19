@@ -1,0 +1,58 @@
+lastAccountName: Mostima
+timestamps:
+  login: 1668787910307
+  logout: 1668788780869
+  lastteleport: 1668788679720
+ipAddress: 113.68.62.209
+lastlocation:
+  world: world
+  x: 302.5214720459454
+  y: 67.0
+  z: -358.50885953330095
+  yaw: 136.25851
+  pitch: 25.799084
+logoutlocation:
+  world: world
+  x: 331.63270350135775
+  y: 8.0
+  z: -297.5039206923081
+  yaw: -311.948
+  pitch: 15.150407
+money: '49100.0'
+homes:
+  home:
+    world: world
+    x: 264.5
+    y: 63.5
+    z: -320.5
+    yaw: -31.446812
+    pitch: 19.499994
+  fan:
+    world: world
+    x: 251.5
+    y: 160.65625
+    z: -315.5
+    yaw: 72.80322
+    pitch: 30.601048
+  caikuang:
+    world: world
+    x: 967.376091937093
+    y: 45.0
+    z: 605.3362988388616
+    yaw: 162.00107
+    pitch: 52.64989
+  zaoze:
+    world: world
+    x: 980.075743748931
+    y: 74.0
+    z: 590.9421048978456
+    yaw: -21.898895
+    pitch: 48.150143
+  yanjiang:
+    world: DIM-1
+    x: -25.452693622457634
+    y: 32.0
+    z: -181.24062385360367
+    yaw: -110.64661
+    pitch: 52.949924
+afk: false

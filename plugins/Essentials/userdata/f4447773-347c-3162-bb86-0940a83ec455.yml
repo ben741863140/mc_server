@@ -1,0 +1,27 @@
+lastAccountName: dudu
+timestamps:
+  login: 1668788529695
+  logout: 1668788850932
+ipAddress: 113.88.112.22
+lastlocation:
+  world: world
+  x: 80.80527883770353
+  y: 79.0
+  z: 12.15706523242809
+  yaw: 39.74651
+  pitch: 35.09961
+homes:
+  home:
+    world: world
+    x: 298.6984259567035
+    y: 67.0
+    z: -359.893856212014
+    yaw: 237.95673
+    pitch: 19.34998
+logoutlocation:
+  world: world
+  x: 289.42865663827564
+  y: 63.0
+  z: -363.0738271252282
+  yaw: 209.59198
+  pitch: 16.199753

@@ -1,0 +1,736 @@
+[00:00:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:42] [Async Chat Thread - 72/INFO] []: <ben> 胖哥，给点红石
+[00:00:44] [Async Chat Thread - 72/INFO] []: <ankikong> 青铜外壳？
+[00:01:19] [Async Chat Thread - 72/INFO] []: <Mostima> 青铜锭
+[00:01:39] [Async Chat Thread - 72/INFO] []: <Mostima> 你右边搜青铜，就有一堆青铜的装备可以做
+[00:01:44] [Async Chat Thread - 72/INFO] []: <ankikong> hao
+[00:01:50] [Async Chat Thread - 72/INFO] []: <Mostima> 直接做一套
+[00:02:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home caikuang
+[00:02:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home home
+[00:04:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /home
+[00:04:25] [Async Chat Thread - 73/INFO] []: <ankikong> 谢谢pdd
+[00:04:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home caikuang
+[00:05:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /home
+[00:05:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 与服务器失去连接: 连接超时
+[00:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 Mostima 退出了游戏~
+[00:05:47] [Server thread/WARN] [Mohist]: handleDisconnection() 被回调两次
+[00:05:54] [User Authenticator #59/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Mostima 的通用唯一标识符(UUID)是 b533aa7c-473b-3bac-bdef-fc03920d0cb7
+[00:05:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:05:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:05:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:06:24] [Netty Epoll Server IO #0/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:06:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 与服务器失去连接: 连接超时
+[00:06:30] [User Authenticator #60/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Mostima 的通用唯一标识符(UUID)是 b533aa7c-473b-3bac-bdef-fc03920d0cb7
+[00:06:30] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:06:30] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:06:30] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:06:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /home kuang
+[00:07:00] [Netty Epoll Server IO #1/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:07:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 与服务器失去连接: 连接超时
+[00:07:16] [User Authenticator #61/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Mostima 的通用唯一标识符(UUID)是 b533aa7c-473b-3bac-bdef-fc03920d0cb7
+[00:07:16] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:07:16] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:07:16] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:07:46] [Netty Epoll Server IO #2/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:07:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 与服务器失去连接: 连接超时
+[00:08:29] [Server thread/INFO] [Mohist]: CONSOLE issued server command: /gamemode 0 ben
+[00:08:29] [Server thread/INFO] []: Set game mode survival for ben.
+[00:10:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 与服务器失去连接: 连接中止
+[00:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 ankikong 退出了游戏~
+[00:10:30] [User Authenticator #62/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Mostima 的通用唯一标识符(UUID)是 b533aa7c-473b-3bac-bdef-fc03920d0cb7
+[00:10:30] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:10:30] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:10:30] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:11:00] [Netty Epoll Server IO #2/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:11:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 与服务器失去连接: 连接超时
+[00:11:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /res tp
+[00:11:49] [User Authenticator #63/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Mostima 的通用唯一标识符(UUID)是 b533aa7c-473b-3bac-bdef-fc03920d0cb7
+[00:11:49] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:11:49] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:11:49] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:11:49] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:11:49] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[00:11:49] [Netty Epoll Server IO #1/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[00:11:49] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[00:11:49] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[00:11:49] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:11:49] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[00:11:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:11:50] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[00:11:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:11:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:11:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mostima[/113.68.62.209:8724] logged in with entity id 826202 at ([world]81.0, 79.0, 15.0)
+[00:11:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:11:50] [Server thread/INFO] []: 玩家 Mostima 加入了游戏~
+[00:12:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /login 631665391
+[00:12:01] [Craft Scheduler Thread - 3080/INFO] [Mohist]: [AuthMe] Mostima logged in 113.68.62.209
+[00:12:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home caikuang
+[00:12:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home zaoze
+[00:13:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /sethome caikuang
+[00:13:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home yanjiang
+[00:13:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /back
+[00:14:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home home
+[00:15:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mostima被烧死了
+[00:16:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /back
+[00:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mostima试图在熔岩里游泳
+[00:17:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /back
+[00:20:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:20:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /home caikuang
+[00:20:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /back
+[00:21:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /back
+[00:21:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /bacck
+[00:21:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /back
+[00:21:40] [Async Chat Thread - 74/INFO] []: <ben> 怎么我的电炉不会弹出到箱子
+[00:21:53] [Async Chat Thread - 74/INFO] []: <Mostima> 你要装弹出升级
+[00:22:02] [Async Chat Thread - 74/INFO] []: <ben> 装了，设置方向了
+[00:22:08] [User Authenticator #64/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 dudu 的通用唯一标识符(UUID)是 f4447773-347c-3162-bb86-0940a83ec455
+[00:22:08] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:22:08] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:22:08] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:22:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:22:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[00:22:08] [Netty Epoll Server IO #3/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[00:22:08] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[00:22:08] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[00:22:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:22:08] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[00:22:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:22:09] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[00:22:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:22:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:22:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: dudu[/113.88.112.22:19586] logged in with entity id 830646 at ([world]81.5, 79.0, 15.0)
+[00:22:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:22:09] [Server thread/INFO] []: 玩家 dudu 加入了游戏~
+[00:22:09] [pool-8-thread-1/INFO] [Mohist]: Creating empty config: /root/mc/server/plugins/Essentials/userdata/f4447773-347c-3162-bb86-0940a83ec455.yml
+[00:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dudu取得了进度[这不是铁镐么]
+[00:22:29] [Async Chat Thread - 74/INFO] []: <Mostima> 那就是方向错了
+[00:22:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /spawn
+[00:22:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /register 123
+[00:22:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /register 123456
+[00:23:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /register 123456
+[00:23:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /reg 123
+[00:23:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /reg 123456 123456
+[00:23:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /reg 159753 159753
+[00:23:37] [Server thread/INFO] [Mohist]: [AuthMe] dudu registered 113.88.112.22
+[00:23:37] [Craft Scheduler Thread - 3100/INFO] [Mohist]: [AuthMe] dudu logged in 113.88.112.22
+[00:23:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /home home
+[00:23:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /tpahere dudu
+[00:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mostima被烧死了
+[00:24:07] [Async Chat Thread - 75/INFO] []: <ben> 来我们据点
+[00:24:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /tpaccept
+[00:24:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /tpa ben
+[00:24:22] [Async Chat Thread - 75/INFO] []: <ben> 在这边sethome吧
+[00:24:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /tpaccept
+[00:24:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 使用了指令: /sethome
+[00:24:35] [Async Chat Thread - 75/INFO] []: <dudu> ok
+[00:24:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 使用了指令: /back
+[00:25:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:25:10] [Async Chat Thread - 75/INFO] []: <dudu> ....
+[00:25:23] [Async Chat Thread - 75/INFO] []: <dudu> wo chuang ne
+[00:25:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /res padd dudu
+[00:25:54] [Async Chat Thread - 75/INFO] []: <ben> 送你把刀
+[00:26:13] [Async Chat Thread - 75/INFO] []: <ben> 很帅
+[00:26:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 与服务器失去连接: 连接超时
+[00:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 Mostima 退出了游戏~
+[00:26:21] [Server thread/WARN] [Mohist]: handleDisconnection() 被回调两次
+[00:26:22] [Async Chat Thread - 75/INFO] []: <dudu> queshi
+[00:26:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dudu取得了进度[拔刀剑]
+[00:26:42] [Async Chat Thread - 75/INFO] []: <dudu> gei wo chuang
+[00:26:49] [Async Chat Thread - 75/INFO] []: <dudu> zai wu ding
+[00:26:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /home home
+[00:27:01] [User Authenticator #65/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Mostima 的通用唯一标识符(UUID)是 b533aa7c-473b-3bac-bdef-fc03920d0cb7
+[00:27:01] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:27:01] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:27:01] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:27:13] [Async Chat Thread - 75/INFO] []: <dudu> thanks
+[00:27:31] [Netty Epoll Server IO #0/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:27:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mostima 与服务器失去连接: 连接超时
+[00:27:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dudu 与服务器失去连接: 连接中止
+[00:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 dudu 退出了游戏~
+[00:29:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 与服务器失去连接: 连接中止
+[00:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 ben 退出了游戏~
+[00:30:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:30:54] [User Authenticator #66/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Gin 的通用唯一标识符(UUID)是 719e89c9-e894-3bf7-991a-20409ea1822c
+[00:30:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:30:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:30:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:30:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:30:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[00:30:54] [Netty Epoll Server IO #0/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[00:30:54] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[00:30:54] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[00:30:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:30:54] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[00:30:55] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:30:55] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[00:30:55] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:30:55] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:30:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:30:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Gin[/113.110.142.118:45821] logged in with entity id 834185 at ([world]81.0, 79.0, 15.0)
+[00:30:55] [Server thread/INFO] []: 玩家 Gin 加入了游戏~
+[00:31:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /login
+[00:31:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /login 1324658
+[00:31:13] [Craft Scheduler Thread - 3125/INFO] [Mohist]: [AuthMe] Gin logged in 113.110.142.118
+[00:31:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[00:31:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res create gin
+[00:32:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ?
+[00:32:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res list
+[00:32:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 2
+[00:32:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:32:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:33:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res limits
+[00:33:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res auto
+[00:34:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ?
+[00:34:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res list
+[00:34:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 2
+[00:34:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:34:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:34:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:35:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:11] [User Authenticator #67/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 ben 的通用唯一标识符(UUID)是 c6f192dd-9855-3c0b-9ba4-f10494358b69
+[00:35:11] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:35:11] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:35:11] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:35:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:11] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:35:11] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[00:35:11] [Netty Epoll Server IO #0/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[00:35:11] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[00:35:11] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[00:35:11] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:35:11] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[00:35:12] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:35:12] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[00:35:12] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:35:12] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:35:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:35:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ben[/113.111.41.37:50595] logged in with entity id 836142 at ([world]81.0, 79.0, 15.0)
+[00:35:12] [Server thread/INFO] []: 玩家 ben 加入了游戏~
+[00:35:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /login b333267015
+[00:35:25] [Craft Scheduler Thread - 3141/INFO] [Mohist]: [AuthMe] ben used the wrong password
+[00:35:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 与服务器失去连接: [玩家系统] 错误的密码
+[00:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 ben 退出了游戏~
+[00:35:25] [Server thread/WARN] [Mohist]: handleDisconnection() 被回调两次
+[00:35:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:29] [User Authenticator #68/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 ben 的通用唯一标识符(UUID)是 c6f192dd-9855-3c0b-9ba4-f10494358b69
+[00:35:29] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:35:29] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:35:29] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:35:29] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:35:29] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[00:35:29] [Netty Epoll Server IO #2/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[00:35:29] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[00:35:29] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[00:35:29] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:35:29] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[00:35:30] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:35:30] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[00:35:30] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:35:30] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:35:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:35:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ben[/113.111.41.37:50656] logged in with entity id 836663 at ([world]81.0, 79.0, 15.0)
+[00:35:30] [Server thread/INFO] []: 玩家 ben 加入了游戏~
+[00:35:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:35:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /login b33267015
+[00:35:35] [Craft Scheduler Thread - 3137/INFO] [Mohist]: [AuthMe] ben logged in 113.111.41.37
+[00:35:39] [Async Chat Thread - 76/INFO] []: <ben> 豪爷
+[00:35:46] [Async Chat Thread - 76/INFO] []: <ben> 用res remove删了领地先
+[00:35:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res remove
+[00:35:56] [Async Chat Thread - 76/INFO] []: <ben> 然后用res select auto 跑对角
+[00:36:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /跑完就用res create <name>
+[00:36:08] [Async Chat Thread - 76/INFO] []: <Gin> hao
+[00:36:10] [Async Chat Thread - 76/INFO] []: <ben> 跑完就用res create <name>
+[00:36:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res remove
+[00:36:18] [Async Chat Thread - 76/INFO] []: <ben> 然后就创建成功了
+[00:36:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:36:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:36:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:36:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res lsit
+[00:36:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /res info
+[00:36:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res list
+[00:36:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /res tp
+[00:36:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:36:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /res info
+[00:36:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:36:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res remove
+[00:36:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res info
+[00:36:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /res ? 4
+[00:37:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res remove Gin_1
+[00:37:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res confirm
+[00:37:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res remove gin
+[00:37:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res confirm
+[00:37:20] [Async Chat Thread - 77/INFO] []: <ben> res remove
+[00:37:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 使用了指令: /res remove
+[00:37:33] [Async Chat Thread - 77/INFO] []: <ben> 你可以先res tp到你的领地
+[00:37:39] [Async Chat Thread - 77/INFO] []: <ben> 再res remove
+[00:37:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res tp
+[00:37:51] [Async Chat Thread - 77/INFO] []: <ben> 就不用自己输领地名
+[00:38:31] [Async Chat Thread - 77/INFO] []: <ben> 我去洗个澡先，你研究下，不懂得就res ? <page_num>
+[00:38:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ben 与服务器失去连接: 连接中止
+[00:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 ben 退出了游戏~
+[00:38:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res select auto
+[00:40:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:40:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res create
+[00:40:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res create Gin
+[00:40:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin被骷髅射杀
+[00:41:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home
+[00:41:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[00:42:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[00:42:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[00:42:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[00:45:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home
+[00:47:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[00:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin取得了进度[来硬的]
+[00:50:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:50:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[00:51:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[00:51:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[00:54:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[00:54:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[00:55:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:00:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:00:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[01:01:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[01:05:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:10:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin取得了进度[怪物猎人]
+[01:11:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home
+[01:11:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[01:14:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /back
+[01:15:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:20:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin被僵尸村民杀死了
+[01:20:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /back
+[01:23:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[01:25:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /back
+[01:30:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin试图在熔岩里游泳
+[01:34:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /back
+[01:35:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin试图在熔岩里游泳
+[01:36:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /back
+[01:40:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:40:05] [Craft Scheduler Thread - 3224/INFO] [Mohist]: [Vault] Checking for Updates ... 
+[01:40:06] [Craft Scheduler Thread - 3224/INFO] [Mohist]: [Vault] No new version available
+[01:45:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /sethome 3
+[01:45:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /sethome 3
+[01:45:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /sethome c
+[01:45:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 3
+[01:45:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[01:47:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[01:48:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[01:50:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:55:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:57:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[01:57:44] [Async Chat Thread - 78/INFO] []: <Gin> home 1
+[01:57:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[01:57:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:00:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:00:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:01:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:01:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:03:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:03:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:05:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:08:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:10:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:15:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ?
+[02:16:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res 3
+[02:16:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res 4
+[02:16:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 4
+[02:16:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ?3
+[02:16:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 4
+[02:16:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 5
+[02:16:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 6
+[02:16:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 7
+[02:17:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? 4
+[02:17:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res ? expand
+[02:17:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /res expand ?
+[02:20:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin被蜘蛛杀死了
+[02:21:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:22:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:22:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:22:54] [Server thread/INFO] [ic2.PlayerActivity]: Player Gin/719e89c9-e894-3bf7-991a-20409ea1822c used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 312/69/-493.
+[02:23:20] [Server thread/INFO] [ic2.PlayerActivity]: Player Gin/719e89c9-e894-3bf7-991a-20409ea1822c used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 312/69/-492.
+[02:23:43] [Server thread/INFO] [ic2.PlayerActivity]: Player Gin/719e89c9-e894-3bf7-991a-20409ea1822c used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=generator] (te Generator) at dim 0: 313/69/-491.
+[02:25:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:28:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:29:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:29:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:29:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:30:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:32:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:32:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:35:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:35:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /sethome ?
+[02:35:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /sethome 4
+[02:35:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /sethome 3
+[02:35:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:35:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 4
+[02:35:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 4
+[02:35:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 3
+[02:35:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:35:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:36:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:36:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:36:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:36:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:40:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:41:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:43:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:43:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:45:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 3
+[02:50:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Gin试图在熔岩里游泳
+[02:50:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:52:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:53:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:53:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[02:55:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:58:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[02:59:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[03:00:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:10:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:10:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[03:10:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[03:15:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:20:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:25:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:30:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:40:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:45:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:50:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:52:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[03:53:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[03:53:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[03:53:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[03:55:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[04:00:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[04:00:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 与服务器失去连接: 连接中止
+[04:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 Gin 退出了游戏~
+[04:05:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:25:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:30:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:40:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:45:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:05:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:10:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:15:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:20:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:25:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:30:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:35:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:40:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:45:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:50:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:55:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:00:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:05:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:10:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:15:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:20:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:25:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:30:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:35:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:40:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:45:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:50:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:55:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:00:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:05:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:10:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:15:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:20:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:25:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:30:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:35:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:09] [Craft Scheduler Thread - 3462/INFO] [Mohist]: [Vault] Checking for Updates ... 
+[07:40:09] [Craft Scheduler Thread - 3462/INFO] [Mohist]: [Vault] No new version available
+[07:45:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:50:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:55:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:00:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:05:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:10:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:15:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:20:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:25:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:30:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:35:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:40:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:45:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:50:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:55:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:00:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:05:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:10:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:15:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:20:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:25:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:30:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:35:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:40:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:45:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:50:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:55:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:00:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:05:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:10:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:15:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:20:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:25:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:30:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:35:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:40:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:45:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:50:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[10:55:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:00:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:05:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:10:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:15:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:20:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:25:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:26:43] [User Authenticator #69/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 ankikong 的通用唯一标识符(UUID)是 747ac0b1-1078-3f7c-ae4e-c6acd3b390d2
+[11:26:43] [Server thread/TRACE] [FML]: Handshake channel activating
+[11:26:43] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[11:26:43] [Server thread/DEBUG] [FML]:   Next: HELLO
+[11:26:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[11:26:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[11:26:43] [Netty Epoll Server IO #1/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[11:26:43] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[11:26:43] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[11:26:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[11:26:43] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[11:26:44] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[11:26:44] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[11:26:44] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[11:26:44] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[11:26:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:26:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ankikong[/121.35.180.78:17935] logged in with entity id 976596 at ([world]81.0, 79.0, 15.0)
+[11:26:44] [Server thread/INFO] []: 玩家 ankikong 加入了游戏~
+[11:27:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /login zhuangyuwu
+[11:27:02] [Craft Scheduler Thread - 3554/INFO] [Mohist]: [AuthMe] ankikong logged in 121.35.180.78
+[11:27:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /home
+[11:27:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /help
+[11:27:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /help 2
+[11:27:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /help 3
+[11:28:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /time
+[11:30:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:35:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:40:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:42:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 与服务器失去连接: 连接超时
+[11:42:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 ankikong 退出了游戏~
+[11:42:14] [Server thread/WARN] [Mohist]: handleDisconnection() 被回调两次
+[11:42:38] [User Authenticator #70/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 ankikong 的通用唯一标识符(UUID)是 747ac0b1-1078-3f7c-ae4e-c6acd3b390d2
+[11:42:38] [Server thread/TRACE] [FML]: Handshake channel activating
+[11:42:38] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[11:42:38] [Server thread/DEBUG] [FML]:   Next: HELLO
+[11:43:08] [Netty Epoll Server IO #0/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:43:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 与服务器失去连接: 连接超时
+[11:44:16] [User Authenticator #71/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 0000000 的通用唯一标识符(UUID)是 7197d2f7-255b-3c95-a09a-8ff14d734bff
+[11:44:16] [Server thread/TRACE] [FML]: Handshake channel activating
+[11:44:16] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[11:44:16] [Server thread/DEBUG] [FML]:   Next: HELLO
+[11:44:16] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[11:44:16] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[11:44:16] [Netty Epoll Server IO #3/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[11:44:16] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[11:44:16] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[11:44:17] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[11:44:17] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[11:44:18] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[11:44:18] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[11:44:18] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[11:44:18] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[11:44:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:44:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 0000000[/58.62.254.106:13885] logged in with entity id 983767 at ([world]81.0, 79.0, 15.0)
+[11:44:19] [Server thread/INFO] []: 玩家 0000000 加入了游戏~
+[11:44:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /login 00pwd716
+[11:44:43] [Craft Scheduler Thread - 3568/INFO] [Mohist]: [AuthMe] 0000000 logged in 58.62.254.106
+[11:44:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 与服务器失去连接: 连接超时
+[11:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 0000000 退出了游戏~
+[11:45:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:45:19] [Netty Epoll Server IO #3/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:45:55] [User Authenticator #72/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 0000000 的通用唯一标识符(UUID)是 7197d2f7-255b-3c95-a09a-8ff14d734bff
+[11:45:55] [Server thread/TRACE] [FML]: Handshake channel activating
+[11:45:55] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[11:45:55] [Server thread/DEBUG] [FML]:   Next: HELLO
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[11:45:55] [Netty Epoll Server IO #1/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[11:45:55] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[11:45:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[11:45:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:45:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 0000000[/58.62.254.106:13905] logged in with entity id 984035 at ([world]81.0, 79.0, 15.0)
+[11:45:56] [Server thread/INFO] []: 玩家 0000000 加入了游戏~
+[11:46:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /asdf
+[11:46:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /
+[11:46:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /login
+[11:46:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /login 00pwd716
+[11:46:44] [Craft Scheduler Thread - 3579/INFO] [Mohist]: [AuthMe] 0000000 logged in 58.62.254.106
+[11:46:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /home
+[11:47:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /tp
+[11:47:12] [Server thread/INFO] [Mohist]: 0000000 was denied access to command.
+[11:47:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 使用了指令: /tp fat
+[11:47:38] [Server thread/INFO] [Mohist]: 0000000 was denied access to command.
+[11:49:24] [Server thread/DEBUG] [FML]: Thaumcraft loaded a new chunk [15, 11] in dimension 0 (overworld) while populating chunk [15, 12], causing cascading worldgen lag.
+[11:49:24] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:50:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:50:47] [User Authenticator #73/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 Gin 的通用唯一标识符(UUID)是 719e89c9-e894-3bf7-991a-20409ea1822c
+[11:50:47] [Server thread/TRACE] [FML]: Handshake channel activating
+[11:50:47] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[11:50:47] [Server thread/DEBUG] [FML]:   Next: HELLO
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[11:50:47] [Netty Epoll Server IO #3/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[11:50:47] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[11:50:47] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[11:50:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:50:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Gin[/113.110.142.118:44727] logged in with entity id 985189 at ([world]81.0, 79.0, 15.0)
+[11:50:47] [Server thread/INFO] []: 玩家 Gin 加入了游戏~
+[11:50:53] [Server thread/DEBUG] [FML]: Thaumcraft loaded a new chunk [18, 13] in dimension 0 (overworld) while populating chunk [17, 13], causing cascading worldgen lag.
+[11:50:53] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:50:53] [Server thread/DEBUG] [FML]: Thaumcraft loaded a new chunk [18, 14] in dimension 0 (overworld) while populating chunk [17, 15], causing cascading worldgen lag.
+[11:50:53] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:51:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /login 1324658
+[11:51:02] [Craft Scheduler Thread - 3587/INFO] [Mohist]: [AuthMe] Gin logged in 113.110.142.118
+[11:51:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /list
+[11:51:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[11:51:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[11:52:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /list
+[11:52:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /?
+[11:52:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /help
+[11:52:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /help 2
+[11:52:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /help 3
+[11:52:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /help 4
+[11:52:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /help 5
+[11:52:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 与服务器失去连接: 连接超时
+[11:52:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 0000000 退出了游戏~
+[11:52:41] [Server thread/WARN] [Mohist]: handleDisconnection() 被回调两次
+[11:54:50] [User Authenticator #74/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 0000000 的通用唯一标识符(UUID)是 7197d2f7-255b-3c95-a09a-8ff14d734bff
+[11:54:50] [Server thread/TRACE] [FML]: Handshake channel activating
+[11:54:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[11:54:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[11:54:56] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[11:54:56] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[11:54:56] [Netty Epoll Server IO #1/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[11:54:56] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[11:54:56] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[11:54:56] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[11:54:56] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[11:54:59] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[11:54:59] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[11:54:59] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[11:54:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:54:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 0000000[/58.62.254.106:14389] logged in with entity id 989405 at ([world]81.0, 79.0, 15.0)
+[11:54:59] [Server thread/INFO] []: 玩家 0000000 加入了游戏~
+[11:55:00] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[11:55:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:55:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0000000 与服务器失去连接: 连接超时
+[11:55:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 0000000 退出了游戏~
+[11:55:46] [Netty Epoll Server IO #1/DEBUG] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[11:59:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 2
+[11:59:37] [User Authenticator #75/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 ankikong 的通用唯一标识符(UUID)是 747ac0b1-1078-3f7c-ae4e-c6acd3b390d2
+[11:59:37] [Server thread/TRACE] [FML]: Handshake channel activating
+[11:59:37] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[11:59:37] [Server thread/DEBUG] [FML]:   Next: HELLO
+[11:59:37] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[11:59:37] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[11:59:37] [Netty Epoll Server IO #3/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[11:59:37] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[11:59:37] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[11:59:37] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[11:59:37] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[11:59:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[11:59:38] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[11:59:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:59:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[11:59:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[11:59:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ankikong[/121.35.180.78:18164] logged in with entity id 992045 at ([world]81.0, 79.0, 15.0)
+[11:59:38] [Server thread/INFO] []: 玩家 ankikong 加入了游戏~
+[11:59:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /login zhuangyuwu
+[11:59:56] [Craft Scheduler Thread - 3613/INFO] [Mohist]: [AuthMe] ankikong logged in 121.35.180.78
+[12:00:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:00:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /home
+[12:05:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:07:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Gin 使用了指令: /home 1
+[12:10:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:12:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 与服务器失去连接: 连接中止
+[12:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 玩家 ankikong 退出了游戏~
+[12:15:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:18:15] [User Authenticator #76/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: 玩家 ankikong 的通用唯一标识符(UUID)是 747ac0b1-1078-3f7c-ae4e-c6acd3b390d2
+[12:18:15] [Server thread/TRACE] [FML]: Handshake channel activating
+[12:18:15] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[12:18:15] [Server thread/DEBUG] [FML]:   Next: HELLO
+[12:18:15] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[12:18:15] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[12:18:15] [Netty Epoll Server IO #2/INFO] [FML]: 客户端尝试加载以下模组加入服务器: 20 : minecraft@1.12.2,gravisuite@3.1.1,champions@1.12.2-1.0.11.8,FML@8.0.99.99,morefurnaces@1.10.5,customnpcs@1.12,baubles@1.5.2,cxlibrary@1.6.1,jei@4.16.1.302,voxelmap@1.9.25,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmoon@1.5.3,ic2@2.8.221-ex112,flammpfeil.slashblade@mc1.12-r32,mcp@9.42,forestry@5.8.2.422,ironchest@1.12.2-7.0.67.844,mobends@1.2.1,advanced_solar_panels@4.3.0
+[12:18:15] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader 已成功加载 [mohist, noic2destruction] ModCLIENT
+[12:18:15] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[12:18:15] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[12:18:15] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[12:18:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[12:18:16] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[12:18:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[12:18:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[12:18:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[12:18:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ankikong[/121.35.180.78:19188] logged in with entity id 1000710 at ([world]81.0, 79.0, 15.0)
+[12:18:16] [Server thread/INFO] []: 玩家 ankikong 加入了游戏~
+[12:18:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /login zhuangyuwu
+[12:18:25] [Craft Scheduler Thread - 3636/INFO] [Mohist]: [AuthMe] ankikong logged in 121.35.180.78
+[12:18:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /home
+[12:20:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:25:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

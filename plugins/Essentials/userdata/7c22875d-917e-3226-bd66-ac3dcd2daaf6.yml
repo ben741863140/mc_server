@@ -1,0 +1,30 @@
+lastAccountName: Toshi
+timestamps:
+  login: 1668348364274
+  logout: 1668349342027
+  lastteleport: 1668348730842
+ipAddress: 120.230.137.79
+lastlocation:
+  world: world
+  x: 322.9455956724439
+  y: 31.0
+  z: -229.11025801843107
+  yaw: -232.28671
+  pitch: 14.249744
+logoutlocation:
+  world: world
+  x: 298.52851944553976
+  y: 63.0
+  z: -288.4902789720559
+  yaw: 269.4361
+  pitch: 11.40015
+money: "50000.0"
+homes:
+  home:
+    world: world
+    x: 297.82932623171604
+    y: 63.0
+    z: -287.45111358963743
+    yaw: -254.7898
+    pitch: 13.049784
+afk: false

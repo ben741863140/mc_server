@@ -1,0 +1,23 @@
+# Set whitelist option to true if you want a list which includes the worlds to count kills in.
+# If you enable the optimization you will lose the benefit of real-time leaderboards, but performance will improve.
+# Set the leaderboard-update to how often you want the leaderboards to update (in seconds, works only with optimization on)
+# If you enable kill-streak-reset then only player kills will reset killstreaks.
+# If you enable kill-death-count then only player kills will be registered as deaths.
+whitelist:
+  option: false
+  worlds:
+  - world
+  - world_dipi1
+  - world_diyu1
+  - world_diyu2
+  - world_diyu3
+  - world_modi1
+  - world_modi2
+  - world_modi3
+  - world_shengcun1
+  - world_shengcun2
+  - world_shengcun3
+optimization: false
+leaderboard-update: 600
+kill-streak-reset: false
+kill-death-count: false

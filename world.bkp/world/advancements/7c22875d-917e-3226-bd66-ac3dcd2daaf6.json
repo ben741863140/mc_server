@@ -1,0 +1,34 @@
+{
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-11-13 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-11-13 15:24:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2022-11-13 15:24:33 +0800"
+    },
+    "done": true
+  },
+  "flammpfeil.slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2022-11-13 15:22:33 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "jungle_hills": "2022-11-13 15:24:18 +0800",
+      "jungle": "2022-11-13 15:23:00 +0800",
+      "desert": "2022-11-13 15:18:30 +0800"
+    },
+    "done": false
+  }
+}

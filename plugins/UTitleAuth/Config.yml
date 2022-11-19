@@ -1,0 +1,44 @@
+TITLES:
+  NO-REGISTER:
+    TITLE: '&e游玩前请注册！'
+    SUBTITLE: '&e聊天栏使用命令 &c“/reg <密码> <重复密码>” &e来注册。'
+
+  NO-LOGIN:
+    TITLE: '&e游玩前请登录！'
+    SUBTITLE: '&e聊天栏使用命令 &c“/login <注册的密码>” &e来登录。'    
+
+  ON-REGISTER:
+    TITLE: '&a注册完成！'
+    SUBTITLE: '&e您已成功注册，欢迎游玩~'
+    TIME:
+      FADEIN: 5
+      STAY: 30
+      FADEOUT: 5
+      
+  ON-LOGIN:
+    TITLE: '&a登录完成！'
+    SUBTITLE: '&e您已成功登录，欢迎回来~'
+    TIME:
+      FADEIN: 5
+      STAY: 30
+      FADEOUT: 5
+      
+ACTIONBAR:
+  Enable: true
+  NO_REGISTER:
+    MESSAGE: '&e剩余时间: &c<time> &e(必须在时间结束前完成注册)'
+
+  NO_LOGIN:
+    MESSAGE: '&e剩余时间: &c<time> &e(必须在时间结束前完成登录)'
+    
+  ON_REGISTER:
+    STAY: 30
+    MESSAGE: '&e注册完成！冒险者 &6%player_name% &e欢迎你！'
+
+  ON_LOGIN:
+    STAY: 30
+    MESSAGE: '&e登录完成！冒险者 &6%player_name% &e欢迎你！'
+
+MESSAGE:
+  RELOAD: '&a配置文件已重载！'
+  NO_AUTHORIZED: '&c你没有权限！'

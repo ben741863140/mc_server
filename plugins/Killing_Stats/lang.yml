@@ -1,0 +1,26 @@
+# Feel free to translate all these messages to any language.
+# To reset it, delete this file and restart your server.
+error1: '&cPlayer not found.'
+error2: '&cThe amount has to be positive.'
+error3: '&cIncorrect usage of command. Please check the help menu.'
+error4: '&cThere is no such category. Check the help menu.'
+error5: '&cYou do not have permission to use that command.'
+error6: '&cOnly players can use that command.'
+success1: '&2Successfully reset your progress!'
+success2: '&aSuccessfully applied stats change to player %player%.'
+success3: '&2Successfully reset %player%''s stats.'
+help1:
+  size: 6
+  '0': '-----------------------/[HELP]\----------------------'
+  '1': shows you your own stats.
+  '2': shows you stats of another player.
+  '3': PERMENANTLY resets your progress.
+  '4': shows you the top 10 of a category.
+  '5': shows you this menu.
+help2:
+  size: 5
+  '0': '-----------------------/[HELP]\----------------------'
+  '1': directly set one of the player's stats.
+  '2': add/subract one of the player's stats.
+  '3': reset the player's stats.
+  '4': shows you this menu.

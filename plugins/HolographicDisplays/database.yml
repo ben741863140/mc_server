@@ -1,0 +1,36 @@
+spawn:
+  location: world, 79.500, 97.200, 3.500
+  lines:
+  - ICON:THAUMCRAFT_THAUMOMETER
+  - '&f欢迎你来到&u混沌大陆&f唷~'
+  - ''
+  - '&f这里是主城保护区，每一名冒险者'
+  - '&f首次登录都会来到这个地方~'
+  - ''
+  - '&e按下 F 键以打开玩家“自助”菜单~'
+signin:
+  location: world, 87.500, 98.700, -1.500
+  lines:
+  - ICON:BOOK_AND_QUILL
+  - '&f进行每日签到'
+  - '&f并且获得丰富的奖励~'
+  - ''
+  - '{slow}&f今日是否签到: &e%litesignin_signed-in%'
+  - '{slow}&f总共已签到数: &d%litesignin_total%'
+  - '{slow}&f补签卡数量: &a%litesignin_cards_amount%'
+  - ''
+auction:
+  location: world, 87.500, 98.100, 8.500
+  lines:
+  - ICON:BEACON
+  - '&f有闲置或无用物品吗？'
+  - '&f来到这个市场进行寄卖吧，'
+  - '&f或者将物品参与一个竞拍~'
+  - ''
+'1':
+  location: world, 87.500, 98.100, 3.500
+  lines:
+  - ICON:STORAGE_MINECART
+  - '&f包含“每日礼包”和'
+  - '&f其它各种各样的礼包~'
+  - '&fVIP玩家每日礼包更丰富哦！'

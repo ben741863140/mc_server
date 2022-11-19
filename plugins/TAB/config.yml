@@ -1,0 +1,176 @@
+# https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Header-&-Footer
+header-footer:
+  enabled: true
+  disable-in-worlds:
+  - disabledworld
+  header:
+  - '%animation:scoreboarddefault%'
+  - ''
+  - '&7所在区域: &r%player_world%&7(你)'
+  - ''
+  footer:
+  - ''
+  - '&7服务器TPS: &a%server_tps_1%'
+  - '&7服务器玩家: &b%server_online%'
+  - ''
+  - '&7当前时间: '
+  - '%server_time_MM月dd日HH点mm分ss秒%'
+  - '%server_time_(yyyy%年)'
+  - ''
+  - '&e感谢您的游玩~'
+  - '                              '
+  per-world:
+    world1:
+      header:
+      - an example of world with custom
+      footer:
+      - header/footer and prefix/suffix
+    world2;world3:
+      header:
+      - This is a shared header for
+      - world2 and world3
+tablist-name-formatting:
+  enabled: true
+  align-tabsuffix-on-the-right: false
+  character-width-overrides: {}
+  anti-override: true
+  disable-in-worlds:
+  - disabledworld
+scoreboard-teams:
+  enabled: true
+  enable-collision: true
+  invisible-nametags: false
+  anti-override: true
+  sorting-types:
+  - GROUPS:admin,vip,default
+  - PLACEHOLDER_A_TO_Z:%player_world%
+  case-sensitive-sorting: true
+  disable-in-worlds:
+  - disabledworld
+  unlimited-nametag-mode:
+    enabled: true
+    use-marker-tag-for-1-8-x-clients: false
+    disable-on-boats: true
+    space-between-lines: 0.22
+    disable-in-worlds:
+    - disabledworld
+    dynamic-lines:
+    - abovename
+    - nametag
+    - belowname
+    - another
+    static-lines:
+      myCustomLine: 0.66
+    disable-in-servers: []
+yellow-number-in-tablist:
+  enabled: true
+  value: '%ping%'
+  disable-in-worlds:
+  - disabledworld
+belowname-objective:
+  enabled: false
+  number: '%health%'
+  text: '&cHealth'
+  disable-in-worlds:
+  - disabledworld
+prevent-spectator-effect:
+  enabled: false
+bossbar:
+  enabled: true
+  toggle-command: /bossbar
+  remember-toggle-choice: true
+  hidden-by-default: false
+  disable-in-worlds:
+  - disabledworld
+  bars:
+    ServerInfo:
+      style: PROGRESS
+      color: YELLOW
+      progress: '100'
+      text: '%animation:bossbardefault%'
+per-world-playerlist:
+  enabled: false
+  allow-bypass-permission: false
+  ignore-effect-in-worlds:
+  - ignoredworld
+  - build
+  shared-playerlist-world-groups:
+    lobby:
+    - lobby1
+    - lobby2
+    minigames:
+    - paintball
+    - bedwars
+scoreboard:
+  enabled: true
+  toggle-command: /sb
+  remember-toggle-choice: true
+  hidden-by-default: false
+  use-numbers: true
+  static-number: 0
+  delay-on-join-milliseconds: 1
+  respect-other-plugins: true
+  disable-in-worlds:
+  - disabledworld
+  scoreboards:
+    boarddefault:
+      title: '%animation:scoreboarddefault%'
+      lines:
+      - '&7%server_time_yy/MM/dd - HH:mm:ss%'
+      - ' '
+      - '&e■ &f金币: '
+      - '  &6%vault_eco_balance_fixed%&f'
+      - '&e■ &f坐标XYZ: '
+      - '  &d%player_x% %player_y% %player_z%'
+      - '  '
+      - '&a✔ &f世界: &r%player_world%'
+      - '&a✔ &f在线玩家: &b%server_online%'
+      - '    '
+      - '&e按E进入物品栏,'
+      - '&e人物右上角有饰品按钮，'
+      - '&e点进去即可看到合成列表'
+ping-spoof:
+  enabled: false
+  value: 0
+fix-pet-names:
+  enabled: false
+placeholders:
+  date-format: dd.MM.yyyy
+  time-format: '[HH:mm:ss / h:mm a]'
+  time-offset: 0
+  register-tab-expansion: false
+placeholder-output-replacements:
+  '%player_world%':
+    world: '&b&n唯一的世界'
+    DIM-1: '&b&n唯一的地狱'
+conditions:
+  nick:
+    conditions:
+    - '%player%=%essentials_nickname%'
+    true: '%player%'
+    false: ~%essentials_nickname%
+placeholderapi-refresh-intervals:
+  default-refresh-interval: 500
+  server:
+    '%server_uptime%': 1000
+    '%server_tps_1_colored%': 1000
+    '%server_unique_joins%': 5000
+  player:
+    '%player_health%': 200
+    '%player_ping%': 1000
+    '%vault_prefix%': 1000
+  relational:
+    '%rel_factionsuuid_relation_color%': 1000
+assign-groups-by-permissions: true
+primary-group-finding-list:
+- admin
+- vip
+- default
+debug: false
+mysql:
+  enabled: false
+  host: 127.0.0.1
+  port: 3306
+  database: tab
+  username: user
+  password: password

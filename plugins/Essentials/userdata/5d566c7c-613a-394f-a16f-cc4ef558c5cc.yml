@@ -1,0 +1,28 @@
+lastAccountName: Koo
+timestamps:
+  login: 1668340700658
+  logout: 1668345483062
+  lastteleport: 1668345074491
+ipAddress: 27.47.171.6
+lastlocation:
+  world: world
+  x: 300.9681101676265
+  y: 50.0
+  z: -293.16672490329853
+  yaw: 67.39966
+  pitch: -5.4000316
+logoutlocation:
+  world: world
+  x: 262.208829848132
+  y: 63.5
+  z: -320.4102272039961
+  yaw: 180.47852
+  pitch: 3.750006
+homes:
+  home:
+    world: world
+    x: 262.78472451520395
+    y: 63.5
+    z: -324.46838663442094
+    yaw: -27.857288
+    pitch: 18.000269

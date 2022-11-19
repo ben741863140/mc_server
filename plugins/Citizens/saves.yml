@@ -1,0 +1,164 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 3
+npc:
+  '2':
+    name: §e[全球市场]
+    uuid: 17e857bc-49d3-45b2-bd32-ae4e107c03a2
+    traits:
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        commands:
+          '0':
+            command: ca gui
+            hand: BOTH
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        bodyYaw: 142.7136
+        world: world
+        x: '87.5'
+        y: '69.0'
+        z: '8.5'
+        yaw: '-168.2459'
+        pitch: '0.0'
+      spawned: true
+      type: VILLAGER
+      owner:
+        owner: Canobe
+        uuid: 7bd31cfa-f05b-3e04-acea-998137e37c66
+    traitnames: scoreboardtrait,owner,commandtrait,lookclose,inventory,skintrait,spawned,location,equipment,mounttrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    name: §e[每日签到]
+    uuid: ac6885df-4d97-4caf-8935-fc7879a14528
+    traits:
+      hologramtrait:
+        direction: TOP_DOWN
+        lineHeight: -1.0
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        commands:
+          '0':
+            command: signin gui
+            hand: BOTH
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        bodyYaw: 62.86801
+        world: world
+        x: '87.5'
+        y: '69.0'
+        z: '-1.5'
+        yaw: '11.8814'
+        pitch: '0.0'
+      spawned: true
+      type: CREEPER
+      owner:
+        owner: Canobe
+        uuid: 7bd31cfa-f05b-3e04-acea-998137e37c66
+    traitnames: scoreboardtrait,owner,commandtrait,inventory,lookclose,skintrait,spawned,location,equipment,mounttrait,hologramtrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    name: §e[礼包大全]
+    uuid: f9006a7d-d090-47d0-9dbb-86d9cf722bdc
+    traits:
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        commands:
+          '1':
+            command: dm open menu_kitlist %player%
+            hand: BOTH
+            player: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        bodyYaw: 94.52495
+        world: world
+        x: '87.5'
+        y: '94.0'
+        z: '3.5'
+        yaw: '90.0'
+        pitch: '0.0'
+      spawned: true
+      gravity:
+        enabled: true
+      type: BLAZE
+      owner:
+        owner: Canobe
+        uuid: 7bd31cfa-f05b-3e04-acea-998137e37c66
+    traitnames: scoreboardtrait,gravity,owner,lookclose,commandtrait,inventory,skintrait,spawned,equipment,location,mounttrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      flyable: true

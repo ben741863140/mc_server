@@ -1,0 +1,51 @@
+lastAccountName: ben
+timestamps:
+  login: 1668789330489
+  logout: 1668789516262
+  lastteleport: 1668788814667
+ipAddress: 113.111.41.37
+lastlocation:
+  world: world
+  x: 292.57238240678646
+  y: 64.0
+  z: -359.97421697908226
+  yaw: -270.3932
+  pitch: -1.6508735
+logoutlocation:
+  world: world
+  x: 298.82
+  y: 63.0
+  z: -358.78
+  yaw: -239.25
+  pitch: 23.25
+money: '488637.6'
+homes:
+  home:
+    world: world
+    x: 297.7242001136686
+    y: 67.0
+    z: -359.9365781638794
+    yaw: 244.25813
+    pitch: 47.3991
+  high:
+    world: world
+    x: 290.91438277303934
+    y: 160.0
+    z: -351.49283560165964
+    yaw: 253.23059
+    pitch: 46.19986
+  zhaoze:
+    world: world
+    x: 962.8802134246745
+    y: 64.0
+    z: 539.1700629261481
+    yaw: 122.2511
+    pitch: 7.050075
+  kuang:
+    world: world
+    x: -565.6999999880791
+    y: 53.0
+    z: 582.6999999880791
+    yaw: 187.65405
+    pitch: 53.24998
+afk: false

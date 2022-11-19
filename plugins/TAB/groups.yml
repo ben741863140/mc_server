@@ -1,0 +1,18 @@
+admin:
+  tabprefix: "&4(管理) &8| &r%player_world%&r %luckperms_prefix%"
+  tabsuffix: " &r%luckperms_suffix%  "
+  tagprefix: "&4(管理)&r%luckperms_prefix% "
+  tagsuffix: " &r%luckperms_suffix%"
+vip:
+  tabprefix: "&b(会员) &8| &r%player_world%&r %luckperms_prefix%"
+  tabsuffix: " &r%luckperms_suffix%  "
+  tagprefix: "&b(会员)&r%luckperms_prefix% "
+  tagsuffix: " &r%luckperms_suffix%"
+_DEFAULT_:
+  tabprefix: "&e(玩家) &8| &r%player_world%&r"
+
+per-world:
+  world1:
+    Owner:
+      tabprefix: "&0&l[&a&lOwner&0&l] &a"
+      tagprefix: "&2&lOwner &a"

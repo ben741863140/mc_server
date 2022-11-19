@@ -1,0 +1,44 @@
+lastAccountName: Gin
+timestamps:
+  login: 1668829847827
+  logout: 1668801626082
+  lastteleport: 1668830855177
+ipAddress: 113.110.142.118
+lastlocation:
+  world: world
+  x: 261.0307038344682
+  y: 63.5
+  z: -318.76122403914496
+  yaw: -51.94281
+  pitch: 10.79996
+afk: true
+logoutlocation:
+  world: world
+  x: 259.23750001192093
+  y: 63.5
+  z: -316.8621916007177
+  yaw: -96.64613
+  pitch: 6.599879
+money: '48867.4'
+homes:
+  home:
+    world: world
+    x: 312.267093723188
+    y: 64.0
+    z: -492.0541769124699
+    yaw: -300.96094
+    pitch: 15.449866
+  _:
+    world: world
+    x: 265.8030585189808
+    y: 64.0
+    z: -318.244310836764
+    yaw: -97.69574
+    pitch: 23.849865
+  c:
+    world: world
+    x: 261.152314872826
+    y: 14.0
+    z: -564.2075753543716
+    yaw: -139.44867
+    pitch: 11.09984

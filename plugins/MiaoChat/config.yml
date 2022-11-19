@@ -1,0 +1,18 @@
+Version: 1.8.5
+BungeeCord: false
+Server: '§a生存服'
+Formats:
+  default: 
+    index: 20
+    permission: 'miaochat.default'
+    range: 0
+    format: '&e(玩家) [player] &7说: &f'
+    item: true
+    itemformat: '&8[&6%s&8]'
+  vip: 
+    index: 10
+    permission: 'miaochat.vip'
+    range: 0
+    format: '&b(会员) [player] &7说: &f'
+    item: true
+    itemformat: '&8[&6%s&8]'

@@ -1,0 +1,31 @@
+11-15-2022 17:45 [INFO] [MyPet] Error-Reporter ENABLED
+11-15-2022 17:46 [INFO] [MyPet] No Update available.
+11-15-2022 17:46 [INFO] [MyPet] Compat mode for v1_12_R1 loaded.
+11-15-2022 17:46 [WARNING] [MyPet] sweet_berries is not a valid 1.13 item ID! Please check your configs.
+11-15-2022 17:46 [INFO] [MyPet] Exp calculation mode: MyPet
+11-15-2022 17:46 [INFO] [MyPet] Current Exp-Cache is invalid, it will be recalculated.
+11-15-2022 17:46 [INFO] [MyPet] Loading WorldGroups...
+11-15-2022 17:46 [INFO] [MyPet]    added world to 'default' group.
+11-15-2022 17:46 [INFO] [MyPet]    added DIM1 to 'default' group.
+11-15-2022 17:46 [INFO] [MyPet] Default skilltree files created.
+11-15-2022 17:46 [INFO] [MyPet] Connect to SQLite database...
+11-15-2022 17:46 [INFO] [MyPet] SQLite connection successful.
+11-15-2022 17:46 [INFO] [MyPet] PlaceholderAPI (2.11.1) hook activated.
+11-15-2022 17:46 [INFO] [MyPet] Residence (5.1.0.0) hook activated.
+11-15-2022 17:46 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+11-15-2022 17:46 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1725 ENABLED
+11-15-2022 19:37 [INFO] [MyPet] Error-Reporter ENABLED
+11-15-2022 19:38 [INFO] [MyPet] No Update available.
+11-15-2022 19:38 [INFO] [MyPet] Compat mode for v1_12_R1 loaded.
+11-15-2022 19:38 [WARNING] [MyPet] sweet_berries is not a valid 1.13 item ID! Please check your configs.
+11-15-2022 19:38 [INFO] [MyPet] Exp calculation mode: MyPet
+11-15-2022 19:38 [INFO] [MyPet] Loading WorldGroups...
+11-15-2022 19:38 [INFO] [MyPet]    added 'world' to 'default'
+11-15-2022 19:38 [INFO] [MyPet]    added 'DIM1' to 'default'
+11-15-2022 19:38 [INFO] [MyPet]    added DIM-1 to 'default' group.
+11-15-2022 19:38 [INFO] [MyPet] Connect to SQLite database...
+11-15-2022 19:38 [INFO] [MyPet] SQLite connection successful.
+11-15-2022 19:38 [INFO] [MyPet] PlaceholderAPI (2.11.1) hook activated.
+11-15-2022 19:38 [INFO] [MyPet] Residence (5.1.0.0) hook activated.
+11-15-2022 19:38 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+11-15-2022 19:38 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1725 ENABLED
