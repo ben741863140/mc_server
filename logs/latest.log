@@ -734,3 +734,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [12:18:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /home
 [12:20:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [12:25:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:30:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:35:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:35:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /tp
+[12:35:22] [Server thread/INFO] [Mohist]: ankikong was denied access to command.
+[12:35:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ankikong 使用了指令: /help tp
+[12:40:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
